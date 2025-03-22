@@ -1,4 +1,4 @@
-package com.techie.springbootrediscache.controller;
+package com.ayshriv.springbootrediscache.controller;
 
 import com.techie.springbootrediscache.dto.ProductDto;
 import com.techie.springbootrediscache.service.ProductService;

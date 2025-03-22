@@ -1,4 +1,4 @@
-package com.techie.springbootrediscache.repository;
+package com.ayshriv.springbootrediscache.repository;
 
 import com.techie.springbootrediscache.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
